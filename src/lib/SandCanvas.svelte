@@ -58,7 +58,7 @@
 	{width}
 	{height}
 	style="border: 1px solid #ccc; cursor: crosshair;"
-/>
+></canvas>
 
 <style>
 	canvas {
